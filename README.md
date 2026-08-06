@@ -5,6 +5,8 @@ Packages used
 4. torch == 2.10.0
 5. matplotlib == 3.10.8
 
+<img width="3072" height="1657" alt="image" src="https://github.com/user-attachments/assets/bcb65334-414c-459e-a898-16f74b09bb01" />
+
 Pre-recorded Dataset available at https://huggingface.co/datasets/ar-py-grim/omy_pnp/tree/main
 place this inside folder named **./demo_data** or can collect data using **data_collect.py**
 
