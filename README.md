@@ -10,7 +10,7 @@
 ### 1. To collect data
 Run **data_collect.py** for data collection. 
 Use WASD for the xy plane, RF for the z-axis, QE for tilt, and ARROW keys for the rest of the rotations.
-SPACEBAR will change your gripper's state, P key will pause recording, and Z key will reset your environment with discarding the current episode data.
+SPACEBAR will change your gripper's state, P key will pause recording, X key for end recording of current episode, and Z key will reset your environment with discarding the current episode data.
 
 Pre-recorded dataset available at https://huggingface.co/datasets/ar-py-grim/omy_pnp/tree/main
 place **demo_data/** inside workspace.
