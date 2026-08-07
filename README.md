@@ -13,3 +13,6 @@ place this inside folder named **./demo_data** or can collect data using **data_
 Pre-trained model is at https://huggingface.co/ar-py-grim/omy_pnp_act/tree/main
 place it inside folder named **./ckpt/act_y** or can train a new model using **data_collect.py** 
 <img width="999" height="999" alt="ACT pred v gt" src="https://github.com/user-attachments/assets/38de3d4a-4b59-468b-b79b-684a02dbee01" />
+
+## Implementation Link
+https://youtu.be/lryWgsryg5A
