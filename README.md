@@ -1,4 +1,4 @@
-Packages used
+**Packages used**
 1. mujoco == 3.6
 2. lerobot == 0.5.1
 3. opencv-python == 4.13.0.92
